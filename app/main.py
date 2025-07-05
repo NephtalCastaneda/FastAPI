@@ -22,8 +22,8 @@ def raiz():
 @app.post("/predecir/")
 def predecir_sinceridad(input: ProyectoInput):
     try:
-        modelo = joblib.load(os.path.join("app", "modelo", "Modelo26Junio.pkl"))
-        dataset = pd.read_csv(os.path.join("app", "data", "DataSetParaEntrenamiento25Junio.csv"))
+        modelo = joblib.load(os.path.join("modelo", "Modelo26Junio.pkl"))
+        dataset = pd.read_csv(os.path.join("data", "DataSetParaEntrenamiento25Junio.csv"))
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Error cargando modelo o dataset: {e}")
 
