@@ -14,7 +14,7 @@ class ProyectoInput(BaseModel):
 
 @app.get("/")
 def raiz():
-    return {"mensaje": "Hola Mundo para API"}
+    return {"mensaje": "Hola Mundo Segundo Intento para API"}
 
 # -----------------------------
 # 1. PREDECIR CON MODELO
