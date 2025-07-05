@@ -1,0 +1,161 @@
+{
+    "proyecto_id": 1035,
+    "promedio_por_visita": [
+        {
+            "id_visita": 1,
+            "promedio_sinceridad": 1.0
+        },
+        {
+            "id_visita": 2,
+            "promedio_sinceridad": 0.027474368427094432
+        },
+        {
+            "id_visita": 3,
+            "promedio_sinceridad": 0.03755763692816382
+        },
+        {
+            "id_visita": 4,
+            "promedio_sinceridad": 0.21008844510708324
+        },
+        {
+            "id_visita": 5,
+            "promedio_sinceridad": 0.4097283597275016
+        },
+        {
+            "id_visita": 6,
+            "promedio_sinceridad": 0.5515400615811958
+        },
+        {
+            "id_visita": 7,
+            "promedio_sinceridad": 0.6510598988234229
+        },
+        {
+            "id_visita": 8,
+            "promedio_sinceridad": 0.7362341266092136
+        },
+        {
+            "id_visita": 9,
+            "promedio_sinceridad": 0.7989271571633016
+        },
+        {
+            "id_visita": 10,
+            "promedio_sinceridad": 0.815044714809607
+        },
+        {
+            "id_visita": 11,
+            "promedio_sinceridad": 0.8367161201915898
+        },
+        {
+            "id_visita": 12,
+            "promedio_sinceridad": 0.7885070919916417
+        },
+        {
+            "id_visita": 13,
+            "promedio_sinceridad": 0.755032613358022
+        },
+        {
+            "id_visita": 14,
+            "promedio_sinceridad": 0.7351125321927123
+        },
+        {
+            "id_visita": 15,
+            "promedio_sinceridad": 0.7287158603878698
+        },
+        {
+            "id_visita": 16,
+            "promedio_sinceridad": 0.7403713848488437
+        },
+        {
+            "id_visita": 17,
+            "promedio_sinceridad": 0.7563246721128667
+        },
+        {
+            "id_visita": 18,
+            "promedio_sinceridad": 0.7732916947975569
+        },
+        {
+            "id_visita": 19,
+            "promedio_sinceridad": 0.789896031089607
+        },
+        {
+            "id_visita": 20,
+            "promedio_sinceridad": 0.8115349041493571
+        },
+        {
+            "id_visita": 21,
+            "promedio_sinceridad": 0.8320344842612659
+        },
+        {
+            "id_visita": 22,
+            "promedio_sinceridad": 0.8498039461096221
+        },
+        {
+            "id_visita": 23,
+            "promedio_sinceridad": 0.8642166973642891
+        },
+        {
+            "id_visita": 24,
+            "promedio_sinceridad": 0.8784242228031907
+        },
+        {
+            "id_visita": 25,
+            "promedio_sinceridad": 0.8878406919987253
+        },
+        {
+            "id_visita": 26,
+            "promedio_sinceridad": 0.8983020162766909
+        },
+        {
+            "id_visita": 27,
+            "promedio_sinceridad": 0.9070640002954706
+        },
+        {
+            "id_visita": 28,
+            "promedio_sinceridad": 0.9138527346226135
+        },
+        {
+            "id_visita": 29,
+            "promedio_sinceridad": 0.9212844965910636
+        },
+        {
+            "id_visita": 30,
+            "promedio_sinceridad": 0.9270021773963524
+        },
+        {
+            "id_visita": 31,
+            "promedio_sinceridad": 0.9318802205990524
+        },
+        {
+            "id_visita": 32,
+            "promedio_sinceridad": 0.9365808638567582
+        },
+        {
+            "id_visita": 33,
+            "promedio_sinceridad": 0.9262834327205441
+        },
+        {
+            "id_visita": 34,
+            "promedio_sinceridad": 0.9171876171586955
+        },
+        {
+            "id_visita": 35,
+            "promedio_sinceridad": 0.9216702502818889
+        },
+        {
+            "id_visita": 36,
+            "promedio_sinceridad": 0.926372317535701
+        },
+        {
+            "id_visita": 37,
+            "promedio_sinceridad": 0.9314498714082406
+        },
+        {
+            "id_visita": 38,
+            "promedio_sinceridad": 0.935247658137198
+        },
+        {
+            "id_visita": 39,
+            "promedio_sinceridad": 0.9387907325428465
+        }
+    ]
+}

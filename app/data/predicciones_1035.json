@@ -1,0 +1,1633 @@
+{
+    "proyecto_id": 1035,
+    "predicciones": [
+        {
+            "id_visita": 1,
+            "sinceridad_predicha": 1.0
+        },
+        {
+            "id_visita": 1,
+            "sinceridad_predicha": 1.0
+        },
+        {
+            "id_visita": 1,
+            "sinceridad_predicha": 1.0
+        },
+        {
+            "id_visita": 1,
+            "sinceridad_predicha": 1.0
+        },
+        {
+            "id_visita": 1,
+            "sinceridad_predicha": 1.0
+        },
+        {
+            "id_visita": 1,
+            "sinceridad_predicha": 1.0
+        },
+        {
+            "id_visita": 1,
+            "sinceridad_predicha": 1.0
+        },
+        {
+            "id_visita": 1,
+            "sinceridad_predicha": 1.0
+        },
+        {
+            "id_visita": 2,
+            "sinceridad_predicha": 0.028112923655601186
+        },
+        {
+            "id_visita": 2,
+            "sinceridad_predicha": 0.02733348430509387
+        },
+        {
+            "id_visita": 2,
+            "sinceridad_predicha": 0.027436859056842174
+        },
+        {
+            "id_visita": 2,
+            "sinceridad_predicha": 0.02733348430509387
+        },
+        {
+            "id_visita": 2,
+            "sinceridad_predicha": 0.02733348430509387
+        },
+        {
+            "id_visita": 2,
+            "sinceridad_predicha": 0.02733348430509387
+        },
+        {
+            "id_visita": 2,
+            "sinceridad_predicha": 0.027436859056842174
+        },
+        {
+            "id_visita": 3,
+            "sinceridad_predicha": 0.03699102416935922
+        },
+        {
+            "id_visita": 3,
+            "sinceridad_predicha": 0.03767095947992474
+        },
+        {
+            "id_visita": 3,
+            "sinceridad_predicha": 0.03767095947992474
+        },
+        {
+            "id_visita": 3,
+            "sinceridad_predicha": 0.03767095947992474
+        },
+        {
+            "id_visita": 3,
+            "sinceridad_predicha": 0.03767095947992474
+        },
+        {
+            "id_visita": 3,
+            "sinceridad_predicha": 0.03767095947992474
+        },
+        {
+            "id_visita": 4,
+            "sinceridad_predicha": 0.20591159772116588
+        },
+        {
+            "id_visita": 4,
+            "sinceridad_predicha": 0.2060343603397466
+        },
+        {
+            "id_visita": 4,
+            "sinceridad_predicha": 0.20591114616205514
+        },
+        {
+            "id_visita": 4,
+            "sinceridad_predicha": 0.20556340426373404
+        },
+        {
+            "id_visita": 4,
+            "sinceridad_predicha": 0.2060343603397466
+        },
+        {
+            "id_visita": 4,
+            "sinceridad_predicha": 0.20621331072152063
+        },
+        {
+            "id_visita": 4,
+            "sinceridad_predicha": 0.20608981519981476
+        },
+        {
+            "id_visita": 4,
+            "sinceridad_predicha": 0.23894956610888227
+        },
+        {
+            "id_visita": 5,
+            "sinceridad_predicha": 0.27997118313384983
+        },
+        {
+            "id_visita": 5,
+            "sinceridad_predicha": 0.4166490369250921
+        },
+        {
+            "id_visita": 5,
+            "sinceridad_predicha": 0.40660072834880395
+        },
+        {
+            "id_visita": 5,
+            "sinceridad_predicha": 0.4068642098076417
+        },
+        {
+            "id_visita": 5,
+            "sinceridad_predicha": 0.5471490901817
+        },
+        {
+            "id_visita": 5,
+            "sinceridad_predicha": 0.4068642098076417
+        },
+        {
+            "id_visita": 5,
+            "sinceridad_predicha": 0.4068642098076417
+        },
+        {
+            "id_visita": 5,
+            "sinceridad_predicha": 0.4068642098076417
+        },
+        {
+            "id_visita": 6,
+            "sinceridad_predicha": 0.47847465258163824
+        },
+        {
+            "id_visita": 6,
+            "sinceridad_predicha": 0.5600663929761696
+        },
+        {
+            "id_visita": 6,
+            "sinceridad_predicha": 0.5600663929761696
+        },
+        {
+            "id_visita": 6,
+            "sinceridad_predicha": 0.5600663929761696
+        },
+        {
+            "id_visita": 6,
+            "sinceridad_predicha": 0.5600663929761696
+        },
+        {
+            "id_visita": 6,
+            "sinceridad_predicha": 0.5600663929761696
+        },
+        {
+            "id_visita": 6,
+            "sinceridad_predicha": 0.5600663929761696
+        },
+        {
+            "id_visita": 6,
+            "sinceridad_predicha": 0.563378809545481
+        },
+        {
+            "id_visita": 6,
+            "sinceridad_predicha": 0.5616087342466252
+        },
+        {
+            "id_visita": 7,
+            "sinceridad_predicha": 0.6328756705292959
+        },
+        {
+            "id_visita": 7,
+            "sinceridad_predicha": 0.6429419107141514
+        },
+        {
+            "id_visita": 7,
+            "sinceridad_predicha": 0.6428768072089563
+        },
+        {
+            "id_visita": 7,
+            "sinceridad_predicha": 0.6428768072089563
+        },
+        {
+            "id_visita": 7,
+            "sinceridad_predicha": 0.687688016293842
+        },
+        {
+            "id_visita": 7,
+            "sinceridad_predicha": 0.6871107845313296
+        },
+        {
+            "id_visita": 7,
+            "sinceridad_predicha": 0.6428768072089563
+        },
+        {
+            "id_visita": 7,
+            "sinceridad_predicha": 0.6440693438518389
+        },
+        {
+            "id_visita": 7,
+            "sinceridad_predicha": 0.644391048883787
+        },
+        {
+            "id_visita": 7,
+            "sinceridad_predicha": 0.6428917918031145
+        },
+        {
+            "id_visita": 8,
+            "sinceridad_predicha": 0.7334835181250655
+        },
+        {
+            "id_visita": 8,
+            "sinceridad_predicha": 0.7365790322723772
+        },
+        {
+            "id_visita": 8,
+            "sinceridad_predicha": 0.7365777984407829
+        },
+        {
+            "id_visita": 8,
+            "sinceridad_predicha": 0.7365777984407829
+        },
+        {
+            "id_visita": 8,
+            "sinceridad_predicha": 0.7365777984407829
+        },
+        {
+            "id_visita": 8,
+            "sinceridad_predicha": 0.7365777984407829
+        },
+        {
+            "id_visita": 8,
+            "sinceridad_predicha": 0.7365777984407829
+        },
+        {
+            "id_visita": 8,
+            "sinceridad_predicha": 0.7365777984407829
+        },
+        {
+            "id_visita": 8,
+            "sinceridad_predicha": 0.7365777984407829
+        },
+        {
+            "id_visita": 9,
+            "sinceridad_predicha": 0.796126362330442
+        },
+        {
+            "id_visita": 9,
+            "sinceridad_predicha": 0.7992863431962169
+        },
+        {
+            "id_visita": 9,
+            "sinceridad_predicha": 0.7992604972720031
+        },
+        {
+            "id_visita": 9,
+            "sinceridad_predicha": 0.7992604972720031
+        },
+        {
+            "id_visita": 9,
+            "sinceridad_predicha": 0.7992604972720031
+        },
+        {
+            "id_visita": 9,
+            "sinceridad_predicha": 0.7992604972720031
+        },
+        {
+            "id_visita": 9,
+            "sinceridad_predicha": 0.7992604972720031
+        },
+        {
+            "id_visita": 9,
+            "sinceridad_predicha": 0.7992113848052145
+        },
+        {
+            "id_visita": 9,
+            "sinceridad_predicha": 0.7994178377778259
+        },
+        {
+            "id_visita": 10,
+            "sinceridad_predicha": 0.8152281310010204
+        },
+        {
+            "id_visita": 10,
+            "sinceridad_predicha": 0.8149945478542875
+        },
+        {
+            "id_visita": 10,
+            "sinceridad_predicha": 0.8149945478542875
+        },
+        {
+            "id_visita": 10,
+            "sinceridad_predicha": 0.8149945478542875
+        },
+        {
+            "id_visita": 10,
+            "sinceridad_predicha": 0.8149945478542875
+        },
+        {
+            "id_visita": 10,
+            "sinceridad_predicha": 0.8149945478542875
+        },
+        {
+            "id_visita": 10,
+            "sinceridad_predicha": 0.8149945478542875
+        },
+        {
+            "id_visita": 10,
+            "sinceridad_predicha": 0.8149945478542875
+        },
+        {
+            "id_visita": 10,
+            "sinceridad_predicha": 0.8152124673054308
+        },
+        {
+            "id_visita": 11,
+            "sinceridad_predicha": 0.8366422203478696
+        },
+        {
+            "id_visita": 11,
+            "sinceridad_predicha": 0.8367837687902988
+        },
+        {
+            "id_visita": 11,
+            "sinceridad_predicha": 0.8367864929686233
+        },
+        {
+            "id_visita": 11,
+            "sinceridad_predicha": 0.8367864929686233
+        },
+        {
+            "id_visita": 11,
+            "sinceridad_predicha": 0.8367864929686233
+        },
+        {
+            "id_visita": 11,
+            "sinceridad_predicha": 0.8367864929686233
+        },
+        {
+            "id_visita": 11,
+            "sinceridad_predicha": 0.8367864929686233
+        },
+        {
+            "id_visita": 11,
+            "sinceridad_predicha": 0.8367864929686233
+        },
+        {
+            "id_visita": 11,
+            "sinceridad_predicha": 0.8363001347744006
+        },
+        {
+            "id_visita": 12,
+            "sinceridad_predicha": 0.7920147037902443
+        },
+        {
+            "id_visita": 12,
+            "sinceridad_predicha": 0.7881506735463489
+        },
+        {
+            "id_visita": 12,
+            "sinceridad_predicha": 0.7881506735463489
+        },
+        {
+            "id_visita": 12,
+            "sinceridad_predicha": 0.7881506735463489
+        },
+        {
+            "id_visita": 12,
+            "sinceridad_predicha": 0.7881506735463489
+        },
+        {
+            "id_visita": 12,
+            "sinceridad_predicha": 0.7881506735463489
+        },
+        {
+            "id_visita": 12,
+            "sinceridad_predicha": 0.7881506735463489
+        },
+        {
+            "id_visita": 12,
+            "sinceridad_predicha": 0.7881506735463489
+        },
+        {
+            "id_visita": 12,
+            "sinceridad_predicha": 0.7878786228664465
+        },
+        {
+            "id_visita": 12,
+            "sinceridad_predicha": 0.7881228784352846
+        },
+        {
+            "id_visita": 13,
+            "sinceridad_predicha": 0.7573336535749305
+        },
+        {
+            "id_visita": 13,
+            "sinceridad_predicha": 0.7547988529632488
+        },
+        {
+            "id_visita": 13,
+            "sinceridad_predicha": 0.7547988529632488
+        },
+        {
+            "id_visita": 13,
+            "sinceridad_predicha": 0.7547988529632488
+        },
+        {
+            "id_visita": 13,
+            "sinceridad_predicha": 0.7547988529632488
+        },
+        {
+            "id_visita": 13,
+            "sinceridad_predicha": 0.7547988529632488
+        },
+        {
+            "id_visita": 13,
+            "sinceridad_predicha": 0.7547988529632488
+        },
+        {
+            "id_visita": 13,
+            "sinceridad_predicha": 0.7547988529632488
+        },
+        {
+            "id_visita": 13,
+            "sinceridad_predicha": 0.7547988529632488
+        },
+        {
+            "id_visita": 13,
+            "sinceridad_predicha": 0.7546016562992988
+        },
+        {
+            "id_visita": 14,
+            "sinceridad_predicha": 0.7353976566942686
+        },
+        {
+            "id_visita": 14,
+            "sinceridad_predicha": 0.7350791865682367
+        },
+        {
+            "id_visita": 14,
+            "sinceridad_predicha": 0.7350791865682367
+        },
+        {
+            "id_visita": 14,
+            "sinceridad_predicha": 0.7350791865682367
+        },
+        {
+            "id_visita": 14,
+            "sinceridad_predicha": 0.7350791865682367
+        },
+        {
+            "id_visita": 14,
+            "sinceridad_predicha": 0.7350791865682367
+        },
+        {
+            "id_visita": 14,
+            "sinceridad_predicha": 0.7350791865682367
+        },
+        {
+            "id_visita": 14,
+            "sinceridad_predicha": 0.7350791865682367
+        },
+        {
+            "id_visita": 14,
+            "sinceridad_predicha": 0.7350791865682367
+        },
+        {
+            "id_visita": 14,
+            "sinceridad_predicha": 0.7350941726869621
+        },
+        {
+            "id_visita": 15,
+            "sinceridad_predicha": 0.7289458601293289
+        },
+        {
+            "id_visita": 15,
+            "sinceridad_predicha": 0.7286903048610411
+        },
+        {
+            "id_visita": 15,
+            "sinceridad_predicha": 0.7286903048610411
+        },
+        {
+            "id_visita": 15,
+            "sinceridad_predicha": 0.7286903048610411
+        },
+        {
+            "id_visita": 15,
+            "sinceridad_predicha": 0.7286903048610411
+        },
+        {
+            "id_visita": 15,
+            "sinceridad_predicha": 0.7286903048610411
+        },
+        {
+            "id_visita": 15,
+            "sinceridad_predicha": 0.7286903048610411
+        },
+        {
+            "id_visita": 15,
+            "sinceridad_predicha": 0.7286903048610411
+        },
+        {
+            "id_visita": 15,
+            "sinceridad_predicha": 0.7286903048610411
+        },
+        {
+            "id_visita": 15,
+            "sinceridad_predicha": 0.7286903048610411
+        },
+        {
+            "id_visita": 16,
+            "sinceridad_predicha": 0.7399027280444379
+        },
+        {
+            "id_visita": 16,
+            "sinceridad_predicha": 0.7403699123437462
+        },
+        {
+            "id_visita": 16,
+            "sinceridad_predicha": 0.7403699123437462
+        },
+        {
+            "id_visita": 16,
+            "sinceridad_predicha": 0.7405305487938406
+        },
+        {
+            "id_visita": 16,
+            "sinceridad_predicha": 0.7405305487938406
+        },
+        {
+            "id_visita": 16,
+            "sinceridad_predicha": 0.7403699123437462
+        },
+        {
+            "id_visita": 16,
+            "sinceridad_predicha": 0.7403699123437462
+        },
+        {
+            "id_visita": 16,
+            "sinceridad_predicha": 0.7403699123437462
+        },
+        {
+            "id_visita": 16,
+            "sinceridad_predicha": 0.7403699123437462
+        },
+        {
+            "id_visita": 16,
+            "sinceridad_predicha": 0.7405305487938406
+        },
+        {
+            "id_visita": 17,
+            "sinceridad_predicha": 0.7544581637055865
+        },
+        {
+            "id_visita": 17,
+            "sinceridad_predicha": 0.7564335573531907
+        },
+        {
+            "id_visita": 17,
+            "sinceridad_predicha": 0.7564335573531907
+        },
+        {
+            "id_visita": 17,
+            "sinceridad_predicha": 0.7566423712465354
+        },
+        {
+            "id_visita": 17,
+            "sinceridad_predicha": 0.7564335573531907
+        },
+        {
+            "id_visita": 17,
+            "sinceridad_predicha": 0.7564335573531907
+        },
+        {
+            "id_visita": 17,
+            "sinceridad_predicha": 0.7564335573531907
+        },
+        {
+            "id_visita": 17,
+            "sinceridad_predicha": 0.7564335573531907
+        },
+        {
+            "id_visita": 17,
+            "sinceridad_predicha": 0.7564335573531907
+        },
+        {
+            "id_visita": 17,
+            "sinceridad_predicha": 0.7571112847042103
+        },
+        {
+            "id_visita": 18,
+            "sinceridad_predicha": 0.7704654122657311
+        },
+        {
+            "id_visita": 18,
+            "sinceridad_predicha": 0.7735424204032523
+        },
+        {
+            "id_visita": 18,
+            "sinceridad_predicha": 0.77339389471217
+        },
+        {
+            "id_visita": 18,
+            "sinceridad_predicha": 0.775200996964514
+        },
+        {
+            "id_visita": 18,
+            "sinceridad_predicha": 0.7733767411286816
+        },
+        {
+            "id_visita": 18,
+            "sinceridad_predicha": 0.7733767411286816
+        },
+        {
+            "id_visita": 18,
+            "sinceridad_predicha": 0.7735424204032523
+        },
+        {
+            "id_visita": 18,
+            "sinceridad_predicha": 0.77339389471217
+        },
+        {
+            "id_visita": 18,
+            "sinceridad_predicha": 0.7733767411286816
+        },
+        {
+            "id_visita": 18,
+            "sinceridad_predicha": 0.7732476851284339
+        },
+        {
+            "id_visita": 19,
+            "sinceridad_predicha": 0.7892819514874699
+        },
+        {
+            "id_visita": 19,
+            "sinceridad_predicha": 0.7899446685857526
+        },
+        {
+            "id_visita": 19,
+            "sinceridad_predicha": 0.7899446685857526
+        },
+        {
+            "id_visita": 19,
+            "sinceridad_predicha": 0.7899446685857526
+        },
+        {
+            "id_visita": 19,
+            "sinceridad_predicha": 0.7899446685857526
+        },
+        {
+            "id_visita": 19,
+            "sinceridad_predicha": 0.7899446685857526
+        },
+        {
+            "id_visita": 19,
+            "sinceridad_predicha": 0.7899464524013072
+        },
+        {
+            "id_visita": 19,
+            "sinceridad_predicha": 0.7899446685857526
+        },
+        {
+            "id_visita": 19,
+            "sinceridad_predicha": 0.7899558470787149
+        },
+        {
+            "id_visita": 19,
+            "sinceridad_predicha": 0.7901080484140621
+        },
+        {
+            "id_visita": 20,
+            "sinceridad_predicha": 0.8106345699778086
+        },
+        {
+            "id_visita": 20,
+            "sinceridad_predicha": 0.8114966492024774
+        },
+        {
+            "id_visita": 20,
+            "sinceridad_predicha": 0.8114966492024774
+        },
+        {
+            "id_visita": 20,
+            "sinceridad_predicha": 0.8114966492024774
+        },
+        {
+            "id_visita": 20,
+            "sinceridad_predicha": 0.8114966492024774
+        },
+        {
+            "id_visita": 20,
+            "sinceridad_predicha": 0.8114966492024774
+        },
+        {
+            "id_visita": 20,
+            "sinceridad_predicha": 0.8114966492024774
+        },
+        {
+            "id_visita": 20,
+            "sinceridad_predicha": 0.8114966492024774
+        },
+        {
+            "id_visita": 20,
+            "sinceridad_predicha": 0.8114966492024774
+        },
+        {
+            "id_visita": 20,
+            "sinceridad_predicha": 0.8127412778959432
+        },
+        {
+            "id_visita": 21,
+            "sinceridad_predicha": 0.8314436141150283
+        },
+        {
+            "id_visita": 21,
+            "sinceridad_predicha": 0.8320605305556227
+        },
+        {
+            "id_visita": 21,
+            "sinceridad_predicha": 0.8320605305556227
+        },
+        {
+            "id_visita": 21,
+            "sinceridad_predicha": 0.8320605305556227
+        },
+        {
+            "id_visita": 21,
+            "sinceridad_predicha": 0.8320605305556227
+        },
+        {
+            "id_visita": 21,
+            "sinceridad_predicha": 0.8320605305556227
+        },
+        {
+            "id_visita": 21,
+            "sinceridad_predicha": 0.8320605305556227
+        },
+        {
+            "id_visita": 21,
+            "sinceridad_predicha": 0.8320605305556227
+        },
+        {
+            "id_visita": 21,
+            "sinceridad_predicha": 0.8322352667481125
+        },
+        {
+            "id_visita": 21,
+            "sinceridad_predicha": 0.8322422478601594
+        },
+        {
+            "id_visita": 22,
+            "sinceridad_predicha": 0.8474373154947342
+        },
+        {
+            "id_visita": 22,
+            "sinceridad_predicha": 0.8499827377515176
+        },
+        {
+            "id_visita": 22,
+            "sinceridad_predicha": 0.849534149804613
+        },
+        {
+            "id_visita": 22,
+            "sinceridad_predicha": 0.8506950092053931
+        },
+        {
+            "id_visita": 22,
+            "sinceridad_predicha": 0.849534149804613
+        },
+        {
+            "id_visita": 22,
+            "sinceridad_predicha": 0.8506650638702431
+        },
+        {
+            "id_visita": 22,
+            "sinceridad_predicha": 0.849794233963649
+        },
+        {
+            "id_visita": 22,
+            "sinceridad_predicha": 0.8504313256984223
+        },
+        {
+            "id_visita": 22,
+            "sinceridad_predicha": 0.8501322670671526
+        },
+        {
+            "id_visita": 22,
+            "sinceridad_predicha": 0.8498332084358826
+        },
+        {
+            "id_visita": 23,
+            "sinceridad_predicha": 0.8614964950554039
+        },
+        {
+            "id_visita": 23,
+            "sinceridad_predicha": 0.8646304545053867
+        },
+        {
+            "id_visita": 23,
+            "sinceridad_predicha": 0.8644870813681017
+        },
+        {
+            "id_visita": 23,
+            "sinceridad_predicha": 0.8644870813681017
+        },
+        {
+            "id_visita": 23,
+            "sinceridad_predicha": 0.8644870813681017
+        },
+        {
+            "id_visita": 23,
+            "sinceridad_predicha": 0.8645016417656399
+        },
+        {
+            "id_visita": 23,
+            "sinceridad_predicha": 0.8644870813681017
+        },
+        {
+            "id_visita": 23,
+            "sinceridad_predicha": 0.8644870813681017
+        },
+        {
+            "id_visita": 23,
+            "sinceridad_predicha": 0.8644870813681017
+        },
+        {
+            "id_visita": 23,
+            "sinceridad_predicha": 0.8646158941078487
+        },
+        {
+            "id_visita": 24,
+            "sinceridad_predicha": 0.875695019539631
+        },
+        {
+            "id_visita": 24,
+            "sinceridad_predicha": 0.8773687108421662
+        },
+        {
+            "id_visita": 24,
+            "sinceridad_predicha": 0.8773683553427948
+        },
+        {
+            "id_visita": 24,
+            "sinceridad_predicha": 0.877591676597806
+        },
+        {
+            "id_visita": 24,
+            "sinceridad_predicha": 0.8825048627078437
+        },
+        {
+            "id_visita": 24,
+            "sinceridad_predicha": 0.8773683553427948
+        },
+        {
+            "id_visita": 24,
+            "sinceridad_predicha": 0.8773687108421662
+        },
+        {
+            "id_visita": 24,
+            "sinceridad_predicha": 0.8826764588462452
+        },
+        {
+            "id_visita": 24,
+            "sinceridad_predicha": 0.8773683553427948
+        },
+        {
+            "id_visita": 24,
+            "sinceridad_predicha": 0.878931722627664
+        },
+        {
+            "id_visita": 25,
+            "sinceridad_predicha": 0.8814997985605028
+        },
+        {
+            "id_visita": 25,
+            "sinceridad_predicha": 0.8886317766798948
+        },
+        {
+            "id_visita": 25,
+            "sinceridad_predicha": 0.8885344180933569
+        },
+        {
+            "id_visita": 25,
+            "sinceridad_predicha": 0.8885344180933569
+        },
+        {
+            "id_visita": 25,
+            "sinceridad_predicha": 0.8885344180933569
+        },
+        {
+            "id_visita": 25,
+            "sinceridad_predicha": 0.8885344180933569
+        },
+        {
+            "id_visita": 25,
+            "sinceridad_predicha": 0.8885344180933569
+        },
+        {
+            "id_visita": 25,
+            "sinceridad_predicha": 0.8885344180933569
+        },
+        {
+            "id_visita": 25,
+            "sinceridad_predicha": 0.8885344180933569
+        },
+        {
+            "id_visita": 25,
+            "sinceridad_predicha": 0.8885344180933569
+        },
+        {
+            "id_visita": 26,
+            "sinceridad_predicha": 0.8980755595740699
+        },
+        {
+            "id_visita": 26,
+            "sinceridad_predicha": 0.8982702767471458
+        },
+        {
+            "id_visita": 26,
+            "sinceridad_predicha": 0.8982702767471458
+        },
+        {
+            "id_visita": 26,
+            "sinceridad_predicha": 0.8982702767471458
+        },
+        {
+            "id_visita": 26,
+            "sinceridad_predicha": 0.8982702767471458
+        },
+        {
+            "id_visita": 26,
+            "sinceridad_predicha": 0.8982702767471458
+        },
+        {
+            "id_visita": 26,
+            "sinceridad_predicha": 0.8982702767471458
+        },
+        {
+            "id_visita": 26,
+            "sinceridad_predicha": 0.8982702767471458
+        },
+        {
+            "id_visita": 26,
+            "sinceridad_predicha": 0.8982702767471458
+        },
+        {
+            "id_visita": 26,
+            "sinceridad_predicha": 0.8987823892156729
+        },
+        {
+            "id_visita": 27,
+            "sinceridad_predicha": 0.9056255582627021
+        },
+        {
+            "id_visita": 27,
+            "sinceridad_predicha": 0.9068054845559314
+        },
+        {
+            "id_visita": 27,
+            "sinceridad_predicha": 0.9073347559814152
+        },
+        {
+            "id_visita": 27,
+            "sinceridad_predicha": 0.9068054845559314
+        },
+        {
+            "id_visita": 27,
+            "sinceridad_predicha": 0.9068054845559314
+        },
+        {
+            "id_visita": 27,
+            "sinceridad_predicha": 0.9068806923293091
+        },
+        {
+            "id_visita": 27,
+            "sinceridad_predicha": 0.9068054845559314
+        },
+        {
+            "id_visita": 27,
+            "sinceridad_predicha": 0.9068054845559314
+        },
+        {
+            "id_visita": 27,
+            "sinceridad_predicha": 0.9068054845559314
+        },
+        {
+            "id_visita": 27,
+            "sinceridad_predicha": 0.9099660890456913
+        },
+        {
+            "id_visita": 28,
+            "sinceridad_predicha": 0.9096657274541536
+        },
+        {
+            "id_visita": 28,
+            "sinceridad_predicha": 0.9142515236223051
+        },
+        {
+            "id_visita": 28,
+            "sinceridad_predicha": 0.9143262618937097
+        },
+        {
+            "id_visita": 28,
+            "sinceridad_predicha": 0.9143262618937097
+        },
+        {
+            "id_visita": 28,
+            "sinceridad_predicha": 0.9143262618937097
+        },
+        {
+            "id_visita": 28,
+            "sinceridad_predicha": 0.9143262618937097
+        },
+        {
+            "id_visita": 28,
+            "sinceridad_predicha": 0.9143262618937097
+        },
+        {
+            "id_visita": 28,
+            "sinceridad_predicha": 0.9143262618937097
+        },
+        {
+            "id_visita": 28,
+            "sinceridad_predicha": 0.9143262618937097
+        },
+        {
+            "id_visita": 28,
+            "sinceridad_predicha": 0.9143262618937097
+        },
+        {
+            "id_visita": 29,
+            "sinceridad_predicha": 0.9202205913155741
+        },
+        {
+            "id_visita": 29,
+            "sinceridad_predicha": 0.92134000755227
+        },
+        {
+            "id_visita": 29,
+            "sinceridad_predicha": 0.9211110051059781
+        },
+        {
+            "id_visita": 29,
+            "sinceridad_predicha": 0.9238861517771254
+        },
+        {
+            "id_visita": 29,
+            "sinceridad_predicha": 0.9209847316139181
+        },
+        {
+            "id_visita": 29,
+            "sinceridad_predicha": 0.9209847316139181
+        },
+        {
+            "id_visita": 29,
+            "sinceridad_predicha": 0.9211780659416456
+        },
+        {
+            "id_visita": 29,
+            "sinceridad_predicha": 0.9209847316139181
+        },
+        {
+            "id_visita": 29,
+            "sinceridad_predicha": 0.9211702177623698
+        },
+        {
+            "id_visita": 29,
+            "sinceridad_predicha": 0.9209847316139181
+        },
+        {
+            "id_visita": 30,
+            "sinceridad_predicha": 0.9236293293915446
+        },
+        {
+            "id_visita": 30,
+            "sinceridad_predicha": 0.9269588733101997
+        },
+        {
+            "id_visita": 30,
+            "sinceridad_predicha": 0.9269059972531163
+        },
+        {
+            "id_visita": 30,
+            "sinceridad_predicha": 0.9269059972531163
+        },
+        {
+            "id_visita": 30,
+            "sinceridad_predicha": 0.9269059972531163
+        },
+        {
+            "id_visita": 30,
+            "sinceridad_predicha": 0.927540509938116
+        },
+        {
+            "id_visita": 30,
+            "sinceridad_predicha": 0.9304570778049662
+        },
+        {
+            "id_visita": 30,
+            "sinceridad_predicha": 0.9269059972531163
+        },
+        {
+            "id_visita": 30,
+            "sinceridad_predicha": 0.9269059972531163
+        },
+        {
+            "id_visita": 30,
+            "sinceridad_predicha": 0.9269059972531163
+        },
+        {
+            "id_visita": 31,
+            "sinceridad_predicha": 0.9269588733101997
+        },
+        {
+            "id_visita": 31,
+            "sinceridad_predicha": 0.9321936029614467
+        },
+        {
+            "id_visita": 31,
+            "sinceridad_predicha": 0.9321936029614467
+        },
+        {
+            "id_visita": 31,
+            "sinceridad_predicha": 0.9321936029614467
+        },
+        {
+            "id_visita": 31,
+            "sinceridad_predicha": 0.9321936029614467
+        },
+        {
+            "id_visita": 31,
+            "sinceridad_predicha": 0.9325728165955002
+        },
+        {
+            "id_visita": 31,
+            "sinceridad_predicha": 0.9321936029614467
+        },
+        {
+            "id_visita": 31,
+            "sinceridad_predicha": 0.9321936029614467
+        },
+        {
+            "id_visita": 31,
+            "sinceridad_predicha": 0.9321936029614467
+        },
+        {
+            "id_visita": 31,
+            "sinceridad_predicha": 0.9339152953546964
+        },
+        {
+            "id_visita": 32,
+            "sinceridad_predicha": 0.934268472697461
+        },
+        {
+            "id_visita": 32,
+            "sinceridad_predicha": 0.9369337733871146
+        },
+        {
+            "id_visita": 32,
+            "sinceridad_predicha": 0.9369337733871146
+        },
+        {
+            "id_visita": 32,
+            "sinceridad_predicha": 0.9369337733871146
+        },
+        {
+            "id_visita": 32,
+            "sinceridad_predicha": 0.9369337733871146
+        },
+        {
+            "id_visita": 32,
+            "sinceridad_predicha": 0.9369337733871146
+        },
+        {
+            "id_visita": 32,
+            "sinceridad_predicha": 0.9369337733871146
+        },
+        {
+            "id_visita": 32,
+            "sinceridad_predicha": 0.9369337733871146
+        },
+        {
+            "id_visita": 32,
+            "sinceridad_predicha": 0.936541047069023
+        },
+        {
+            "id_visita": 32,
+            "sinceridad_predicha": 0.9364627050912968
+        },
+        {
+            "id_visita": 33,
+            "sinceridad_predicha": 0.9307791424908396
+        },
+        {
+            "id_visita": 33,
+            "sinceridad_predicha": 0.9271156154348301
+        },
+        {
+            "id_visita": 33,
+            "sinceridad_predicha": 0.9271156154348301
+        },
+        {
+            "id_visita": 33,
+            "sinceridad_predicha": 0.9271156154348301
+        },
+        {
+            "id_visita": 33,
+            "sinceridad_predicha": 0.927369514811161
+        },
+        {
+            "id_visita": 33,
+            "sinceridad_predicha": 0.9271156154348301
+        },
+        {
+            "id_visita": 33,
+            "sinceridad_predicha": 0.9168528480360714
+        },
+        {
+            "id_visita": 33,
+            "sinceridad_predicha": 0.9274202946864273
+        },
+        {
+            "id_visita": 33,
+            "sinceridad_predicha": 0.9262890674172936
+        },
+        {
+            "id_visita": 33,
+            "sinceridad_predicha": 0.9271156154348301
+        },
+        {
+            "id_visita": 33,
+            "sinceridad_predicha": 0.9216054991369073
+        },
+        {
+            "id_visita": 33,
+            "sinceridad_predicha": 0.9271156154348301
+        },
+        {
+            "id_visita": 33,
+            "sinceridad_predicha": 0.927113519253013
+        },
+        {
+            "id_visita": 33,
+            "sinceridad_predicha": 0.9271156154348301
+        },
+        {
+            "id_visita": 33,
+            "sinceridad_predicha": 0.9270122969326381
+        },
+        {
+            "id_visita": 34,
+            "sinceridad_predicha": 0.9268462354985578
+        },
+        {
+            "id_visita": 34,
+            "sinceridad_predicha": 0.9145470972596577
+        },
+        {
+            "id_visita": 34,
+            "sinceridad_predicha": 0.916783765215622
+        },
+        {
+            "id_visita": 34,
+            "sinceridad_predicha": 0.9168015754877804
+        },
+        {
+            "id_visita": 34,
+            "sinceridad_predicha": 0.916783765215622
+        },
+        {
+            "id_visita": 34,
+            "sinceridad_predicha": 0.9145470972596577
+        },
+        {
+            "id_visita": 34,
+            "sinceridad_predicha": 0.9168677845435879
+        },
+        {
+            "id_visita": 34,
+            "sinceridad_predicha": 0.9167837652156221
+        },
+        {
+            "id_visita": 34,
+            "sinceridad_predicha": 0.9167837652156221
+        },
+        {
+            "id_visita": 34,
+            "sinceridad_predicha": 0.9167837652156221
+        },
+        {
+            "id_visita": 34,
+            "sinceridad_predicha": 0.9167837652156221
+        },
+        {
+            "id_visita": 34,
+            "sinceridad_predicha": 0.9167837652156221
+        },
+        {
+            "id_visita": 34,
+            "sinceridad_predicha": 0.9168336230588809
+        },
+        {
+            "id_visita": 34,
+            "sinceridad_predicha": 0.9168015754877804
+        },
+        {
+            "id_visita": 34,
+            "sinceridad_predicha": 0.9170829122751749
+        },
+        {
+            "id_visita": 35,
+            "sinceridad_predicha": 0.9176722094949568
+        },
+        {
+            "id_visita": 35,
+            "sinceridad_predicha": 0.9219058068573238
+        },
+        {
+            "id_visita": 35,
+            "sinceridad_predicha": 0.9217695495415047
+        },
+        {
+            "id_visita": 35,
+            "sinceridad_predicha": 0.9217695495415047
+        },
+        {
+            "id_visita": 35,
+            "sinceridad_predicha": 0.9217695495415047
+        },
+        {
+            "id_visita": 35,
+            "sinceridad_predicha": 0.9217695495415047
+        },
+        {
+            "id_visita": 35,
+            "sinceridad_predicha": 0.9217695495415047
+        },
+        {
+            "id_visita": 35,
+            "sinceridad_predicha": 0.9217695495415047
+        },
+        {
+            "id_visita": 35,
+            "sinceridad_predicha": 0.9217695495415047
+        },
+        {
+            "id_visita": 35,
+            "sinceridad_predicha": 0.9219058068573237
+        },
+        {
+            "id_visita": 35,
+            "sinceridad_predicha": 0.922034747062546
+        },
+        {
+            "id_visita": 35,
+            "sinceridad_predicha": 0.9217695495415047
+        },
+        {
+            "id_visita": 35,
+            "sinceridad_predicha": 0.9217617013622289
+        },
+        {
+            "id_visita": 35,
+            "sinceridad_predicha": 0.9219098711133762
+        },
+        {
+            "id_visita": 35,
+            "sinceridad_predicha": 0.9237072151485411
+        },
+        {
+            "id_visita": 36,
+            "sinceridad_predicha": 0.923967920834155
+        },
+        {
+            "id_visita": 36,
+            "sinceridad_predicha": 0.9264001614132574
+        },
+        {
+            "id_visita": 36,
+            "sinceridad_predicha": 0.9274909327086326
+        },
+        {
+            "id_visita": 36,
+            "sinceridad_predicha": 0.9264469352705479
+        },
+        {
+            "id_visita": 36,
+            "sinceridad_predicha": 0.9264469352705479
+        },
+        {
+            "id_visita": 36,
+            "sinceridad_predicha": 0.9264469352705479
+        },
+        {
+            "id_visita": 36,
+            "sinceridad_predicha": 0.9264469352705479
+        },
+        {
+            "id_visita": 36,
+            "sinceridad_predicha": 0.9264469352705479
+        },
+        {
+            "id_visita": 36,
+            "sinceridad_predicha": 0.9264469352705479
+        },
+        {
+            "id_visita": 36,
+            "sinceridad_predicha": 0.9264561165101992
+        },
+        {
+            "id_visita": 36,
+            "sinceridad_predicha": 0.9267087045339925
+        },
+        {
+            "id_visita": 36,
+            "sinceridad_predicha": 0.9264469352705479
+        },
+        {
+            "id_visita": 36,
+            "sinceridad_predicha": 0.9264469352705479
+        },
+        {
+            "id_visita": 36,
+            "sinceridad_predicha": 0.9264469352705479
+        },
+        {
+            "id_visita": 36,
+            "sinceridad_predicha": 0.9265385096003474
+        },
+        {
+            "id_visita": 37,
+            "sinceridad_predicha": 0.9276229775056123
+        },
+        {
+            "id_visita": 37,
+            "sinceridad_predicha": 0.9308478752051427
+        },
+        {
+            "id_visita": 37,
+            "sinceridad_predicha": 0.9329347635703914
+        },
+        {
+            "id_visita": 37,
+            "sinceridad_predicha": 0.9310078904224074
+        },
+        {
+            "id_visita": 37,
+            "sinceridad_predicha": 0.9348325374192278
+        },
+        {
+            "id_visita": 37,
+            "sinceridad_predicha": 0.9309655515424847
+        },
+        {
+            "id_visita": 37,
+            "sinceridad_predicha": 0.9309655515424847
+        },
+        {
+            "id_visita": 37,
+            "sinceridad_predicha": 0.9309655515424847
+        },
+        {
+            "id_visita": 37,
+            "sinceridad_predicha": 0.9309778320566744
+        },
+        {
+            "id_visita": 37,
+            "sinceridad_predicha": 0.9321903227433421
+        },
+        {
+            "id_visita": 37,
+            "sinceridad_predicha": 0.930699762025565
+        },
+        {
+            "id_visita": 37,
+            "sinceridad_predicha": 0.9322435793554424
+        },
+        {
+            "id_visita": 37,
+            "sinceridad_predicha": 0.9309778320566744
+        },
+        {
+            "id_visita": 37,
+            "sinceridad_predicha": 0.932163746799466
+        },
+        {
+            "id_visita": 37,
+            "sinceridad_predicha": 0.9323522973362093
+        },
+        {
+            "id_visita": 38,
+            "sinceridad_predicha": 0.932679401362249
+        },
+        {
+            "id_visita": 38,
+            "sinceridad_predicha": 0.9360150710374902
+        },
+        {
+            "id_visita": 38,
+            "sinceridad_predicha": 0.9352529150701997
+        },
+        {
+            "id_visita": 38,
+            "sinceridad_predicha": 0.9352881395946332
+        },
+        {
+            "id_visita": 38,
+            "sinceridad_predicha": 0.9352881395946332
+        },
+        {
+            "id_visita": 38,
+            "sinceridad_predicha": 0.9360150710374902
+        },
+        {
+            "id_visita": 38,
+            "sinceridad_predicha": 0.9350887597973697
+        },
+        {
+            "id_visita": 38,
+            "sinceridad_predicha": 0.9351055827609482
+        },
+        {
+            "id_visita": 38,
+            "sinceridad_predicha": 0.9352514770292583
+        },
+        {
+            "id_visita": 38,
+            "sinceridad_predicha": 0.9352529150701997
+        },
+        {
+            "id_visita": 38,
+            "sinceridad_predicha": 0.9360150710374902
+        },
+        {
+            "id_visita": 38,
+            "sinceridad_predicha": 0.9352529150701997
+        },
+        {
+            "id_visita": 38,
+            "sinceridad_predicha": 0.9352514770292583
+        },
+        {
+            "id_visita": 38,
+            "sinceridad_predicha": 0.9358523538056016
+        },
+        {
+            "id_visita": 38,
+            "sinceridad_predicha": 0.9351055827609482
+        },
+        {
+            "id_visita": 39,
+            "sinceridad_predicha": 0.9372326936004458
+        },
+        {
+            "id_visita": 39,
+            "sinceridad_predicha": 0.93891773356675
+        },
+        {
+            "id_visita": 39,
+            "sinceridad_predicha": 0.9388444084360001
+        },
+        {
+            "id_visita": 39,
+            "sinceridad_predicha": 0.93891773356675
+        },
+        {
+            "id_visita": 39,
+            "sinceridad_predicha": 0.9388444084360001
+        },
+        {
+            "id_visita": 39,
+            "sinceridad_predicha": 0.93891773356675
+        },
+        {
+            "id_visita": 39,
+            "sinceridad_predicha": 0.93891773356675
+        },
+        {
+            "id_visita": 39,
+            "sinceridad_predicha": 0.93891773356675
+        },
+        {
+            "id_visita": 39,
+            "sinceridad_predicha": 0.93891773356675
+        },
+        {
+            "id_visita": 39,
+            "sinceridad_predicha": 0.93891773356675
+        },
+        {
+            "id_visita": 39,
+            "sinceridad_predicha": 0.93891773356675
+        },
+        {
+            "id_visita": 39,
+            "sinceridad_predicha": 0.93891773356675
+        },
+        {
+            "id_visita": 39,
+            "sinceridad_predicha": 0.9388444084360001
+        },
+        {
+            "id_visita": 39,
+            "sinceridad_predicha": 0.93891773356675
+        },
+        {
+            "id_visita": 39,
+            "sinceridad_predicha": 0.93891773356675
+        }
+    ]
+}
