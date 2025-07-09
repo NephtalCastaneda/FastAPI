@@ -6,6 +6,7 @@ import joblib
 import os
 import matplotlib.pyplot as plt
 import json
+from fastapi import Request
 
 app = FastAPI()
 
@@ -173,3 +174,46 @@ def obtener_json_resumen(proyecto_id: int):
         return FileResponse(resumen_path, media_type="application/json", filename=f"predicciones_promedio_{proyecto_id}.json")
     else:
         raise HTTPException(status_code=404, detail="Archivo JSON promedio no encontrado")
+
+@app.post("/conexion-api")
+async def conexion_api(request: Request):
+    try:
+        # Cargar modelo
+        modelo = joblib.load(os.path.join("modelo", "Modelo26Junio.pkl"))
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Error al cargar el modelo: {e}")
+
+    try:
+        datos_entrantes = await request.json()
+        if not isinstance(datos_entrantes, list) or not datos_entrantes:
+            raise HTTPException(status_code=400, detail="El JSON debe ser una lista con datos")
+
+        df = pd.DataFrame(datos_entrantes)
+    except Exception as e:
+        raise HTTPException(status_code=400, detail=f"Error al leer el JSON enviado: {e}")
+
+    # Validar columnas necesarias
+    columnas_requeridas = [
+        'porcentaje_real', 'diferencia', 'proyecto_monto', 'proyecto_duracion',
+        'id_visita', 'm2c', 'sinceridad_anterior', 'diferencia_anterior',
+        'porcentaje_real_anterior', 'promedio_sinceridad_antes'
+    ]
+    for col in columnas_requeridas:
+        if col not in df.columns:
+            raise HTTPException(status_code=400, detail=f"Falta la columna requerida: {col}")
+
+    try:
+        X = df[columnas_requeridas]
+        y_pred = modelo.predict(X)
+        df['sinceridad_predicha'] = y_pred
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Error al hacer predicción: {e}")
+
+    # Convertir a JSON de respuesta
+    resultados = df[['id_visita', 'sinceridad_predicha']].to_dict(orient='records')
+
+    return {
+        "status": "ok",
+        "registros_recibidos": len(df),
+        "predicciones": resultados
+    }
