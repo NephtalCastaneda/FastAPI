@@ -176,44 +176,42 @@ def obtener_json_resumen(proyecto_id: int):
         raise HTTPException(status_code=404, detail="Archivo JSON promedio no encontrado")
 
 @app.post("/conexion-api")
-async def conexion_api(request: Request):
+def recibir_datos_externos(datos: dict):
     try:
-        # Cargar modelo
-        modelo = joblib.load(os.path.join("modelo", "Modelo26Junio.pkl"))
+        df = pd.DataFrame(datos.get("data", []))
+        if df.empty:
+            raise HTTPException(status_code=400, detail="No hay datos en el JSON")
+
+        df = df.sort_values(by="id_visita")
+
+        # Agregar columnas derivadas
+        df['sinceridad_anterior'] = df['SinceridadAcumuladaTopadaMetodo3'].shift(1)
+        df['diferencia_anterior'] = df['diferencia'].shift(1)
+        df['porcentaje_real_anterior'] = df['porcentaje_real'].shift(1)
+        df['promedio_sinceridad_antes'] = df['SinceridadAcumuladaTopadaMetodo3'].expanding().mean().shift()
+
+        df = df.dropna()
+
+        columnas = [
+            'porcentaje_real', 'diferencia', 'proyecto_monto', 'proyecto_duracion',
+            'id_visita', 'm2c', 'sinceridad_anterior', 'diferencia_anterior',
+            'porcentaje_real_anterior', 'promedio_sinceridad_antes'
+        ]
+
+        for col in columnas:
+            if col not in df.columns:
+                raise HTTPException(status_code=422, detail=f"Falta la columna requerida: {col}")
+
+        X = df[columnas]
+        modelo = joblib.load("modelo/Modelo26Junio.pkl")
+        df['Sinceridad Predecida'] = modelo.predict(X)
+
+        resultado = df[['id_visita', 'Sinceridad Predecida']].to_dict(orient='records')
+        return {
+            "proyecto_id": datos.get("proyecto_id", "desconocido"),
+            "predicciones": resultado
+        }
+
     except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Error al cargar el modelo: {e}")
+        raise HTTPException(status_code=500, detail=str(e))
 
-    try:
-        datos_entrantes = await request.json()
-        if not isinstance(datos_entrantes, list) or not datos_entrantes:
-            raise HTTPException(status_code=400, detail="El JSON debe ser una lista con datos")
-
-        df = pd.DataFrame(datos_entrantes)
-    except Exception as e:
-        raise HTTPException(status_code=400, detail=f"Error al leer el JSON enviado: {e}")
-
-    # Validar columnas necesarias
-    columnas_requeridas = [
-        'porcentaje_real', 'diferencia', 'proyecto_monto', 'proyecto_duracion',
-        'id_visita', 'm2c', 'sinceridad_anterior', 'diferencia_anterior',
-        'porcentaje_real_anterior', 'promedio_sinceridad_antes'
-    ]
-    for col in columnas_requeridas:
-        if col not in df.columns:
-            raise HTTPException(status_code=400, detail=f"Falta la columna requerida: {col}")
-
-    try:
-        X = df[columnas_requeridas]
-        y_pred = modelo.predict(X)
-        df['sinceridad_predicha'] = y_pred
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Error al hacer predicción: {e}")
-
-    # Convertir a JSON de respuesta
-    resultados = df[['id_visita', 'sinceridad_predicha']].to_dict(orient='records')
-
-    return {
-        "status": "ok",
-        "registros_recibidos": len(df),
-        "predicciones": resultados
-    }
